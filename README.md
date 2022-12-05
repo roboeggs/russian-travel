@@ -3,7 +3,7 @@
 * Дизайн-макет
 * Изображения
 * О проекте
-* [Ссылка на проект](https://alinalvova.github.io/russian-travel/)
+* [Ссылка на проект](https://roboeggs.github.io/russian-travel/)
 
 ####Интро
 
